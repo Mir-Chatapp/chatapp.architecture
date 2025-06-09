@@ -1,0 +1,17 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Draw.io backup files
+*.bak
+
+# Ignore temporary files
+*.tmp
+
+# Ignore logs
+*.log
+
+# Ignore other temporary or generated files
+*.swp
+*.swo
+*.~*
